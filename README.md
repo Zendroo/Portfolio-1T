@@ -12,7 +12,7 @@
 ------------------------------------------------------------------
 ## Descrição do Portfólio
 ##### *O portfólio terá conteúdos sobre:*  
-###### **Fundamentos de TI + exemplos** → **Lógica computacional + exemplos** →  **Fundamentos de Design + exemplos**
+###### **Fundamentos de TI** → **Lógica computacional** →  **Fundamentos de Design**
 -----------------------------------------------------------------------------
 #### Toda matéria vista em Lógica computacional (editados em períodos trimensais):
 ~~~javascript
@@ -116,48 +116,4 @@ Evolução: Possibilitar o constante aprimoramento e desenvolvimento de novas fu
 → Permitir que programas sejam Núcleo e Cerne
 Para acessar o kernel, o usuário deve usar um interpretador de comandos
 Aplicativos + shell → Kernel → (cpu - memória - dispositivos)
-
-Exemplos:
- 
- 1 - 
-   1  mkdir aluno
-    2  cd aluno
-    3  touch test01.txt test02.txt test03.txt
-    4  cd ..
-    5  touch test2.txt
-    6  mkdir aulaso
-    7  cd aluno
-    8  cp test01.txt-/aulaso
-    9  cp test.01.txt-/desktop/aulaso
-   10  cp test.02.txt-/desktop/aulaso
-   11  cp test.03.txt-/desktop/aulaso
-   12  mv test2.txt-/desktop/aulaso
-   13  rm test01.txt
-   14  cd ..
-
-2 - 
-   15  find . -name 'test'
-./aulaso/test01.txt
-./aulaso/test02.txt 
-./aulaso/test03.txt 
-./test2.txt
-   16  cd aulaso
-   17  find . -name 't'
-./teste1.txt
-./teste2.txt
-./teste3.txt
-   
-   3 - 
-   
-   44  mkdir /
-   45  mkdir home
-   46  cd home
-   47  mkdir aluno
-   48  cd aluno
-   49  mkdir filmes
-   50  cd filmes
-   51  mkdir Comédia Aventura Suspense
-   52  cd Comédia
-   53   mkdir Nacional Estrangeiro
-   54  history
 ~~~
