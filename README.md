@@ -14,7 +14,7 @@
 ##### *O portfólio terá conteúdos sobre:*  
 ###### **Fundamentos de TI + exemplos** → **Lógica computacional + exemplos** →  **Fundamentos de Design + exemplos**
 -----------------------------------------------------------------------------
-#### Toda matéria vista em Lógica computacional (editados em períodos trimensais:
+#### Toda matéria vista em Lógica computacional (editados em períodos trimensais):
 ~~~javascript
 Códigos de Java:
 
