@@ -48,7 +48,7 @@ binário:
 boolean → verdadeiro ou falso
 ~~~
 ----------------------------------------------------------------
-#### Toda matéria vista em Fundamentos de TI:
+#### Toda matéria vista em Fundamentos de TI (editados em períodos trimensais):
 ~~~TI
 Segurança da Informação:
 
@@ -116,4 +116,9 @@ Evolução: Possibilitar o constante aprimoramento e desenvolvimento de novas fu
 → Permitir que programas sejam Núcleo e Cerne
 Para acessar o kernel, o usuário deve usar um interpretador de comandos
 Aplicativos + shell → Kernel → (cpu - memória - dispositivos)
+~~~
+#### Toda matéria vista em Fundamentos de Design (editados em períodos trimensais):
+~~~~matéria:
+* Teoria das cores
+* Fundamentos do web design
 ~~~
