@@ -121,4 +121,4 @@ Aplicativos + shell → Kernel → (cpu - memória - dispositivos)
 ~~~~matéria:
 * Teoria das cores
 * Fundamentos do web design
-~~~
+
