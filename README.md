@@ -17,6 +17,7 @@
 ## Atividades escolhidas 
 #### Design -> *site rato (O motivo da escolha foi o quão legal o site ficou).*
 #### Lógica computacional -> *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
+---------------------------------------------------------------------------------
 
 #### Toda matéria vista em Lógica computacional (editados em períodos trimensais):
 ~~~javascript
