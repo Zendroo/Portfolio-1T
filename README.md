@@ -126,4 +126,6 @@ Aplicativos + shell → Kernel → (cpu - memória - dispositivos)
 ~~~~matéria:
 * Teoria das cores
 * Fundamentos do web design
-
+-------------------------------------------------------------
+#### Links das atividades
+[atividade site](https://github.com/Zendroo/Portfolio-1T/blob/main/Design/%C3%89%20isso%20que%20rato%20gosta..pdf) 
