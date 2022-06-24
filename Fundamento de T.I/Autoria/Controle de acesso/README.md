@@ -1,1 +1,1 @@
-# Chave controle de acesso pelo arduíno
+# Controle de acesso pelo arduíno
