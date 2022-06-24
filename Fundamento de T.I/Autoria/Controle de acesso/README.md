@@ -4,7 +4,7 @@
 #### Grupo: Gabriel Barroso Zendron, Leandro de Medeiros Filho e Nicolas Juan Alvarenga.
 ##### Atividade: Controle de acesso pelo arduíno
 ---------------------------------------------------------------------------------------------------------------------
-### Materiais: 
+##### Materiais: 
 * Leitor RFID
 * Arduíno UNO
 * Tags RFID 
@@ -12,7 +12,7 @@
 * Buzzer
 * Placa de Ensaio
 
-### Ligações RFID: 
+##### Ligações RFID: 
 * Pino SDA ligado na porta 10
 * Pino SCK ligado na porta 13
 * Pino MOSI ligado na porta 11
