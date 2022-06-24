@@ -21,3 +21,6 @@
 * Pino GND ligado no GND
 * Pino RST ligado na porta 9
 * Pino 3.3 ligado no 3.3
+----------------------------------------------------------------------------------------------------------------------
+### Objetivo:
+Exibir uma mensagem na tela mostrando "Acesso Liberado" e o nome do anfitrião ao inserir o tag no leitor
