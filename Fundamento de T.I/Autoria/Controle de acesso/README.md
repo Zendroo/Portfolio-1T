@@ -3,7 +3,8 @@
 ---------------------------------------------------------------------------------------------------------------------
 #### Grupo: Gabriel Barroso Zendron, Leandro de Medeiros Filho e Nicolas Juan Alvarenga.
 ##### Atividade: Controle de acesso pelo arduíno
-##### Materiais:
+---------------------------------------------------------------------------------------------------------------------
+### *Materiais:
 * Leitor RFID
 * Arduíno UNO
 * Tags RFID 
