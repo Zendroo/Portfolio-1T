@@ -10,14 +10,15 @@
 * ###### *Finalizar cursos de Japonês*
 * ###### *Certificado do Hellow (alocado no final do portfólio)*
 ------------------------------------------------------------------
-## Descrição do Portfólio 1° Trimestre
+1° Trimestre
+## Descrição do Portfólio
 ##### *O portfólio terá conteúdos sobre:*  
 ###### **Fundamentos de TI** → **Lógica computacional** →  **Fundamentos de Design**
 -----------------------------------------------------------------------------
 ## Atividades escolhidas 
 #### Design -> *site rato (O motivo da escolha foi o quão legal o site ficou).*
 #### Lógica computacional -> *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
----------------------------------------------------------------------------------
+
 #### Links das atividades
 [atividade site](https://github.com/Zendroo/Portfolio-1T/blob/main/Design/%C3%89%20isso%20que%20rato%20gosta..pdf),
 [atividade T.I.](https://github.com/Zendroo/Portfolio-1T/blob/main/Fundamento%20de%20T.I./Mat%C3%A9ria),
