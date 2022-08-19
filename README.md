@@ -10,7 +10,7 @@
 * ###### *Finalizar cursos de Japonês*
 * ###### *Certificado do Hellow (alocado no final do portfólio)*
 ------------------------------------------------------------------
-1° Trimestre
+# 1° Trimestre
 ## Descrição do Portfólio
 ##### *O portfólio terá conteúdos sobre:*  
 ###### **Fundamentos de TI** → **Lógica computacional** →  **Fundamentos de Design**
