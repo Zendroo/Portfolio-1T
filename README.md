@@ -35,9 +35,7 @@
 #### Lógica computacional -> *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
 
 #### Links das atividades
-[atividade site](https://github.com/Zendroo/Portfolio-1T/blob/main/Design/%C3%89%20isso%20que%20rato%20gosta..pdf),
-[atividade T.I.](https://github.com/Zendroo/Portfolio-1T/blob/main/Fundamento%20de%20T.I./Mat%C3%A9ria),
-[atividade Java 1](https://github.com/Zendroo/Portfolio-1T/blob/main/l%C3%B3gica%20computacional/Atividades.java),
-[atividade Java 2](https://github.com/Zendroo/Portfolio-1T/blob/main/l%C3%B3gica%20computacional/atividade02.java).
+[atividade Java 3](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade3.java),
+[atividade Java 2](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade4.java).
 ---------------------------------------------------------------------------------
 
