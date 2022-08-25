@@ -30,9 +30,8 @@
 ##### *O portfólio terá conteúdos sobre:*  
 ###### **Lógica computacional** →  **Fundamentos de Redes**
 -----------------------------------------------------------------------------
-## Atividades escolhidas 
-#### Design -> *site rato (O motivo da escolha foi o quão legal o site ficou).*
-#### Lógica computacional -> *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
+## Atividades escolhidas: 
+#### Lógica computacional -> *Primeira atividade feitas
 
 #### Links das atividades
 [atividade Java 3](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade3.java),
