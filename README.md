@@ -37,4 +37,7 @@
 [atividade Java 3](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade3.java),
 [atividade Java 2](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade4.java).
 ---------------------------------------------------------------------------------
-
+# **3° Trimestre**
+> Descrição do Portfólio
+##### *O portfólio terá conteúdos sobre:*  
+###### **Lógica de Programação** →  **Fundamentos de Banco de Dados → Fundamentos de Redes**
