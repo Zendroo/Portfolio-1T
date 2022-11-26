@@ -43,3 +43,9 @@
 > Descrição do Portfólio
 ##### *O portfólio terá conteúdos sobre:*  
 ###### **Lógica de Programação** →  **Fundamentos de Banco de Dados → Fundamentos de Redes**
+
+#### Links das atividades
+[Atividade Banco de Dados](https://docs.google.com/document/d/1Tv1Z2pK5MNkPP1qj0_YXbBkSpt2GWIV1CQ6ILJTCgUs/edit?usp=sharing),
+[Atividade Banco de Dados](https://docs.google.com/document/d/1V2l78_M71T6e2bbdntw6Q1tw8Hr8lYrnQn69ffYiq8Y/edit?usp=sharing),
+[Atividade Redes 3](https://docs.google.com/document/d/1VZQgus5Yr0qmz9Krkn-kOFLfWzunN6XJoGveYaklrY0/edit?usp=sharing),
+[Atividade Redes 4](https://docs.google.com/document/d/1_nc0km1DxJE4Kg1faZVTGPCNOJNcobQlhS04IpXCS8o/edit?usp=sharing).
