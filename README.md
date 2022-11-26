@@ -36,6 +36,9 @@
 #### Links das atividades
 [atividade Java 3](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade3.java),
 [atividade Java 2](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade4.java).
+
+[atividade Redes](https://docs.google.com/document/d/1S_UwAqsQbxYqzoPu37rjy39Odb2yQ0stYhu2XYb2Qeg/edit?usp=sharing),
+[atividade Redes 2](https://docs.google.com/document/d/1kdeJo-D6eQQnL-MZ6MyR_zyBDk6zSSd1tAc0uuOPBxI/edit?usp=sharing).
 ---------------------------------------------------------------------------------
 # **3° Trimestre**
 > Descrição do Portfólio
