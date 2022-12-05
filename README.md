@@ -51,3 +51,8 @@
 [Atividade Redes 4](https://docs.google.com/document/d/1_nc0km1DxJE4Kg1faZVTGPCNOJNcobQlhS04IpXCS8o/edit?usp=sharing),
 [Atividade Java 5](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade05.java),
 [Atividade Java 6](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade06.java).
+
+---------------------------------------------------------------------------------
+# **Autorias**
+> Todas autorias
+https://docs.google.com/document/d/1vNwGoMkuNgqaeRQayzWDvhKs4CxU8vyJnPuWEPT4kYA/edit?usp=sharing
