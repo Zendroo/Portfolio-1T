@@ -5,7 +5,6 @@
 ##### Sou Gabriel Barroso Zendron, tenho 17 anos e estudo atualmente no Sesi Senai-SJ. Aproveito o tempo livre para estudar e programar em Python e HTML5 visto no canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo), além de aprender Inglês no colégio e Japonês em cursos pagos na busca de alcançar a fluência de ambos. Focando atualmente em aprender Power BI para a análise de dados de empresa, algo que nos dias de hoje está em falta, busco ingressar cedo nessa parte do mercado de trabalho para me adaptar nas novas linguagens e tipos de análises que podem surgir.
 ## Conquistas e Trabalhos:
 * ###### *Alcançar o N4 em Japonês*
-* ###### *Conseguir criar um site*
 * ###### *Acabar curso de cores fornecido pela Bradesco*
 * ###### *Finalizar cursos de Japonês*
 * ###### *Certificado do Hellow (alocado no final do portfólio)*
