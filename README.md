@@ -53,7 +53,6 @@
 [Atividade Java 6](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade06.java).
 
 ---------------------------------------------------------------------------------
-![Autoria-1--unscreen](https://user-images.githubusercontent.com/102531193/206307164-f716869e-1585-4c4a-9778-4e5bca4b78b1.gif)
-
+# Autorias 
 > Todas autorias
 ## [Autorias](https://docs.google.com/document/d/1vNwGoMkuNgqaeRQayzWDvhKs4CxU8vyJnPuWEPT4kYA/edit?usp=sharing)
