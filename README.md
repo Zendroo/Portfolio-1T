@@ -53,7 +53,5 @@
 [Atividade Java 6](https://github.com/Zendroo/Portfolio-T/blob/main/l%C3%B3gica%20computacional/atividade06.java).
 
 ---------------------------------------------------------------------------------
-![Autoria](https://user-images.githubusercontent.com/102531193/206306751-0e237aca-6e96-4a87-ad6e-38823e4e1a2f.gif)
-
 > Todas autorias
 ## [Autorias](https://docs.google.com/document/d/1vNwGoMkuNgqaeRQayzWDvhKs4CxU8vyJnPuWEPT4kYA/edit?usp=sharing)
